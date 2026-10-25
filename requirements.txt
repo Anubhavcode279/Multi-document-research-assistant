@@ -1,0 +1,14 @@
+langgraph
+langchain-core
+langchain-anthropic
+pydantic
+pymupdf
+langchain-text-splitters
+chromadb
+rank-bm25
+sentence-transformers
+fastapi
+uvicorn
+streamlit
+ragas
+python-dotenv
